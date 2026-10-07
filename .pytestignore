@@ -1,0 +1,28 @@
+# Ignore manual integration tests
+manual_tests/
+
+# Ignore demo files
+demos/
+
+# Ignore scripts directory
+scripts/
+
+# Ignore cache directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ignore virtual environments
+.venv/
+venv/
+env/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
